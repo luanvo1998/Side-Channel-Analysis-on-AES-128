@@ -12,4 +12,6 @@ Useful resources (More in Citation section of report):
 2. https://github.com/newaetech/chipwhisperer 
 3. https://www.youtube.com/watch?v=OlX-p4AGhWs
 
-Author: Luan Vo - ECE 547 - Summer 2020 UMass Amherst
+This project was made for ECE 547 - UMass Amherst Summer 2020
+
+Contributor: Luan Vo - luanvo@umass.edu
