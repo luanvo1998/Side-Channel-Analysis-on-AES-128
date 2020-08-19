@@ -1,4 +1,4 @@
-# Side-Channel-Analysis-on-AES-128 instruction on getting started 
+# Side-Channel-Analysis-on-AES-128 instructions on getting started 
 
 This project will introduce the effect of SCA on a given trace file. Observe, and analyze the behaviors of a SCA attack whislt providing an explanation on the approach to prevent SCAs.
 
