@@ -8,6 +8,6 @@ Installation Guide:
 3. Load traces into CWhisperer and perform attacks via python scripts
 
 Useful resources (More in Citation section of report): 
-https://chipwhisperer.readthedocs.io/en/latest/
-https://github.com/newaetech/chipwhisperer
-https://www.youtube.com/watch?v=OlX-p4AGhWs
+1. https://chipwhisperer.readthedocs.io/en/latest/ 
+2. https://github.com/newaetech/chipwhisperer 
+3. https://www.youtube.com/watch?v=OlX-p4AGhWs
